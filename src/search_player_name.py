@@ -3,7 +3,7 @@ import requests
 import traceback
 
 def search_player_name(bot, update, args):
-    url="https://search-api.tracker.network/d2players?q="+args[0]+"&platform=1"
+    url="https://search-api.tracker.network/d2players?q=*"+args[0]+"*&platform=1"
     try:
         response = requests.get(url)
         data = json.loads(response.content)
