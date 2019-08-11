@@ -2,8 +2,10 @@ import json
 import requests
 import traceback
 
+# Command list modules
 from search_player_name import *
 
+# Telegram and config modules
 from telegram.ext import CommandHandler, Filters, MessageHandler, Updater
 from conf.settings import TELEGRAM_TOKEN, HTTP_URI
 
