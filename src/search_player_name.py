@@ -3,7 +3,7 @@ import requests
 import traceback
 
 def search_player_name(bot, update, args):
-    url="https://search-api.tracker.network/d2players?q="+args[0]
+    url="https://search-api.tracker.network/d2players?q="+args[0]+"platform=1"
     response_message = "Localizei esses guardioes: \n\n"
     try:
         response = requests.get(url)
