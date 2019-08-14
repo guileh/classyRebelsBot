@@ -21,4 +21,4 @@ BASE_HTTP_URL|Your bot can send images but it needs to be stored somewhere.
 
 ## Who we are
 
-More about ClassyRebelsBR find us at [Bungie.net Clan Page](https://www.bungie.net/en/ClanV2/AdminSections?groupid=1808735)
+More about us ClassyRebelsBR at [Bungie.net Clan Page](https://www.bungie.net/en/ClanV2/AdminSections?groupid=1808735)
