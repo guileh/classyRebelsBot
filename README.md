@@ -14,11 +14,11 @@ ClassyRebelsBR Destiny2 companion bot
 ``` docker run -it --env TELEGRAM_TOKEN="YOUR-TELEGRAM-TOKEN" guihermehd/classy-rebels-br:latest ```
 
 ## Environment Variables
-Variable|Description
----|---
-TELEGRAM_TOKEN|Contact @botfather via Telegram and create your bot '/newbot'. Follow @botfather instructions.
-BASE_HTTP_URL|Your bot can send images but it needs to be stored somewhere.
+Variable | Description
+------------ | -------------
+TELEGRAM_TOKEN | Contact @botfather via Telegram and create your bot '/newbot'. Follow @botfather instructions.
+BASE_HTTP_URL | Your bot can send images but it needs to be stored somewhere.
 
 ## Who we are
 
-More about us ClassyRebelsBR at [Bungie.net Clan Page](https://www.bungie.net/en/ClanV2/AdminSections?groupid=1808735)
+More about ClassyRebelsBR at [Bungie.net Clan Page](https://www.bungie.net/en/ClanV2/AdminSections?groupid=1808735)
