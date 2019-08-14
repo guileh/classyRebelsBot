@@ -9,6 +9,7 @@ ClassyRebelsBR Destiny2 companion bot
 - [ ] Schedule online group PvP matches
 - [ ] Schedule raids
 - [ ] Get clan members leaderboard
+- [ ] Get clan season progression status
 
 ## How to use
 ``` docker run -it --env TELEGRAM_TOKEN="YOUR-TELEGRAM-TOKEN" guihermehd/classy-rebels-br:latest ```
@@ -21,4 +22,4 @@ BASE_HTTP_URL | Your bot can send images but it needs to be stored somewhere.
 
 ## Who we are
 
-More about ClassyRebelsBR at [Bungie.net Clan Page](https://www.bungie.net/en/ClanV2/AdminSections?groupid=1808735)
+More about ClassyRebelsBR at [Bungie.net Clan Page](https://www.bungie.net/en/ClanV2?groupid=1808735)
